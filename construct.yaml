@@ -1,0 +1,12 @@
+name: MyCli
+version: "0.0.1"
+channels:
+  - https://conda.anaconda.org/conda-forge/
+installer_type: pkg
+specs:
+  - python=3.13
+  - pip
+  - typer
+  - numpy
+  - xcdat
+  - xesmf

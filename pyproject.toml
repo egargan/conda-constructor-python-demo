@@ -1,0 +1,6 @@
+[project]
+name = "my-cli"
+version = "0.0.1"
+
+[project.scripts]
+mycli = "mycli.cli:app"
